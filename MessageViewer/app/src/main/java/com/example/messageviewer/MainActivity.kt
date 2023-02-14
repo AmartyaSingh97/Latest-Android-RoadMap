@@ -84,8 +84,17 @@ fun MessageCard(message: Message) {
 @Composable
 fun Conversation(messages: List<Message>){
     LazyColumn{
+        if(messages.isEmpty()){
+            item{
+                Text(text="No Messages",
+                    style=MaterialTheme.typography.h4,
+                    modifier=Modifier.padding(8.dp))
+            }
+        }
+        else{
         items(messages){ message ->
             MessageCard(message)
+        }
         }
     }
 }
