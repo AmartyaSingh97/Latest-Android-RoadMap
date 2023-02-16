@@ -17,11 +17,15 @@ You can also earn badges and flaunt your badges like mine 😁. [Google Develope
 1. **Course 1**: - **Android Basics in Kotlin** - [Link](https://developer.android.com/courses/android-basics-kotlin/course?authuser=1)
 
 - There are six units in the course.
+
 ![Screenshot (90)](https://user-images.githubusercontent.com/85061899/219298681-15998708-a47f-4869-9429-fbc5446b296c.png)
+
 - Each unit is further divided into pathways.
 ![Screenshot (91)](https://user-images.githubusercontent.com/85061899/219299902-06d96f70-e660-4bd2-ac6a-dc99d23d3e29.png)
+
 - Each pathways has respective activities.(Codelab/Articles/Videos)
 ![Screenshot (92)](https://user-images.githubusercontent.com/85061899/219300484-8d695df3-44ca-4fab-a2a3-32e2e21a2e9c.png)
+
 - At last of each pathway, there is a quiz, which you must complete to get your badge.
 
 
